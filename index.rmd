@@ -8,5 +8,4 @@ output: html_document
 # The Simple Yet Awesome Website
 ## Note: The 6 lines of text above are the YAML tags
 ### We will Knit the RMS to a html file next
-Then Oush index.html to the github.io repo.
-
+Then Push index.html to the github.io repo.
