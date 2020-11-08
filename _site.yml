@@ -1,0 +1,8 @@
+name: "Beer Case Study"
+navbar:
+  title: "Beer Case Study"
+  left:
+     - text: "Home - About Me"
+       href: index.html
+     - text: "Beer Case Study R-markdown"
+       href: BudweiserDataAnalysis.html
