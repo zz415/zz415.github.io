@@ -4,5 +4,5 @@ navbar:
   left:
      - text: "Home - About Me"
        href: index.html
-     - text: "test"
-       href: test.html
+     - text: "Budweiser Case Study"
+       href: BudweiserDataAnalysis.html
