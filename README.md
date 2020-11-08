@@ -1,2 +1,2 @@
 # zz415.github.io
-deploy ctl model
+case study 1 
