@@ -1,11 +1,13 @@
 ---
-title: "Simple Website"
+title: "About Me"
 author: "Zach Zaiken"
 date: "11/7/2020"
 output: html_document
 ---
 
-# The Simple Yet Awesome Website
-## Note: The 6 lines of text above are the YAML tags
-### We will Knit the RMS to a html file next
-Then Push index.html to the github.io repo.
+# About Me
+1. Author: Zach Z
+2. From: San Francisco, CA
+3. Interests: Mountain Biking, Watching Movies, Cooking
+4. Current Job Analytics Manager
+5. Education: University of Colorado & SMU
