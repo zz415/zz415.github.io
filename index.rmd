@@ -1,0 +1,13 @@
+---
+title: "About Me"
+author: "Zach Zaiken"
+date: "11/7/2020"
+output: html_document
+---
+
+# About Me
+1. Author: Zach Z
+2. From: San Francisco, CA
+3. Interests: Mountain Biking, Watching Movies, Cooking
+4. Current Job Analytics Manager
+5. Education: University of Colorado & SMU
